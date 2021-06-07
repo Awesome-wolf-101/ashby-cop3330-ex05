@@ -20,10 +20,7 @@ public class APP {
         int MultiplicationResult = FirstNumber * SecondNumber;
         int DivisionResult = FirstNumber / SecondNumber;
 
-        System.out.println(NumberOne + " + " + NumberTwo + " = " + AdditionResult);
-        System.out.println(NumberOne + " - " + NumberTwo + " = " + SubtractionResult);
-        System.out.println(NumberOne + " * " + NumberTwo + " = " + MultiplicationResult);
-        System.out.println(NumberOne + " / " + NumberTwo + " = " + DivisionResult);
+        System.out.println(NumberOne + " + " + NumberTwo + " = " + AdditionResult + "\n" + NumberOne + " - " + NumberTwo + " = " + SubtractionResult + "\n" + NumberOne + " * " + NumberTwo + " = " + MultiplicationResult + "\n" + NumberOne + " / " + NumberTwo + " = " + DivisionResult);
 
 
 
